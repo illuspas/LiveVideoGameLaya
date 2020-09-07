@@ -1,0 +1,2 @@
+# LiveVideoGameLaya
+在Laya引擎中集成NodePlayer.js-wasm版开发视频直播游戏Demo
